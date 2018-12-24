@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329932201026",
+    "firebase_url": "https://tubes-11d17.firebaseio.com",
+    "project_id": "tubes-11d17",
+    "storage_bucket": "tubes-11d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329932201026:android:e74c41b77eb0768a",
+        "android_client_info": {
+          "package_name": "lagi.garap.tubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329932201026-urc0u48jlbp2a1h4gbpa4anueb970o4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lagi.garap.tubes",
+            "certificate_hash": "6f40b5be38815edc43baf99926ff598cd118b11a"
+          }
+        },
+        {
+          "client_id": "329932201026-9i6rhp5jh0op8ldj1ne7jcqmis2dlipt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-lwMirmZE2mm8nprM5dkJJYiHE-D1WI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329932201026-9i6rhp5jh0op8ldj1ne7jcqmis2dlipt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
